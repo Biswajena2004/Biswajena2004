@@ -117,9 +117,9 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Biswajena2004/Biswajena2004/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Biswajena2004/Biswajena2004/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Biswajena2004/Biswajena2004/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SAFAL-MONDAL/SAFAL-MONDAL/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SAFAL-MONDAL/SAFAL-MONDAL/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/SAFAL-MONDAL/SAFAL-MONDAL/blob/output/github-snake-dark.svg" />
 </picture>
 
 </div>
