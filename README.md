@@ -72,9 +72,9 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=SAFAL-MONDAL&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SAFAL-MONDAL&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAFAL-MONDAL&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Biswajena2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Biswajena2004&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajena2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -84,7 +84,7 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=SAFAL-MONDAL&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Biswajena2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
@@ -104,7 +104,7 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 
 ## 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=SAFAL-MONDAL&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Biswajena2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
